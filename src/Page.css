@@ -1,0 +1,33 @@
+.page {
+    background:#282D35;
+    height:65vh;
+}
+
+.page-heading {
+    font-weight: 700;
+    font-size:40px;
+    letter-spacing: -1px;
+    margin:0;
+    color:#fff;
+    padding:55px 0 20px 35px;
+
+}
+
+.page-list {
+    color:#fff;
+    margin-left:30px;
+
+}
+.page-item {
+    padding:0.5rem;
+    padding-left:0;
+    width:70%;
+
+
+}
+
+.page-item::marker {
+    color:#61DAFB;
+    font-size:1.5rem;
+
+}
